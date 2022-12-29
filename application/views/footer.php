@@ -138,20 +138,6 @@
                         </ul>
                     </div>
                 </div>
-                <!-- <div class="col-sm-3 col-md-3">
-                    <div class="footer-item">
-                        <div class="footer-title">
-                            Subscribe
-                        </div>
-                        <p>Lit sed The Best in dolor sit amet consectetur adipisicing elit sedconsectetur adipisicing</p>
-                        <form action="#" class="footer-subscribe">
-                            <input type="email" name="EMAIL" class="form-control" placeholder="enter your email">
-                            <input id="p_submit" type="submit" value="send">
-                            <label for="p_submit"><i class="fa fa-envelope"></i></label>
-                            <p>Get latest updates and offers.</p>
-                        </form>
-                    </div>
-                </div> -->
             </div>
         </div>
 
