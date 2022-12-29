@@ -208,7 +208,7 @@
                     <h3>Welcome to Technuova Safety</h3>
                     <p>Technuova was started in UAE with a mandate of offering robust safety technology brand Vigil in warehousing and logistics, oil & gas and construction sites where workers and heavy machinery work in tandem and is deemed very critical in safety. Vigil develops and installs real time safety systems to suit those needs and strive in achieving zero accident rates there by avoiding accidents and injuries to humans and also safe guards assets.</p>
                     <p>Our Principals Vigil Safety Technologies is a new tech safety startup founded in 2013 by engineers with backgrounds in Software Design, Manufacturing and Safety.</p>
-                    <a style="color: #fff;background: #6598ff;padding: 10px;border-radius: 5px;font-weight: 600;" href="<?php echo base_url() ?>tagproxi">know more</a>
+                    <a style="color: #fff;background: #6598ff;padding: 10px;border-radius: 5px;font-weight: 600;" href="<?php echo base_url() ?>about">know more</a>
                 </div>
 
             </div>
