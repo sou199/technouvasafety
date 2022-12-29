@@ -159,7 +159,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 col-md-12">
-                        <p class="ftex">&copy; 2022 Technuova developed by Venus Digital Marketing - All Rights Reserved</p>
+                        <p class="ftex">&copy; <?= date('Y'); ?> Technuova developed by Venus Digital Marketing - All Rights Reserved</p>
                     </div>
                 </div>
             </div>
